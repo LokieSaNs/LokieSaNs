@@ -2,7 +2,8 @@
 
 
 
-![Static Badge](https://img.shields.io/badge/-dart)
+![Static Badge](https://badgen.net/
+badge/:subject/:status/:color?icon=dart)
 
 - 👋 Hi, I’m @LokieSaNs
 - 👀 I’m interested in ...
