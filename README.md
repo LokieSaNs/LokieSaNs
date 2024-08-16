@@ -1,16 +1,12 @@
 # Hi 👋, im [Lokie](https://www.instagram.com/lokie.dev)!
 
-
-
-![Static Badge](https://badgen.net/badge/white?icon=dart)
-
-- 👋 Hi, I’m @LokieSaNs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Language used
++ Dart
++ JavaScript / TypeScript
++ Php
++ Lua
++ C++
++ etc
 
 <!---
 LokieSaNs/LokieSaNs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
