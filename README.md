@@ -1,4 +1,5 @@
-![Lokie-SaNs](./asset/header.png)
+# Hi 👋, im [Lokie](https://www.instagram.com/lokie.dev)!
+
 
 - 👋 Hi, I’m @LokieSaNs
 - 👀 I’m interested in ...
