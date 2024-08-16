@@ -2,7 +2,7 @@
 
 
 
-[![Static Badge](https://img.shields.io/badge/dart)]
+![Static Badge](https://img.shields.io/badge/-dart)
 
 - 👋 Hi, I’m @LokieSaNs
 - 👀 I’m interested in ...
