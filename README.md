@@ -1,6 +1,9 @@
 # Hi 👋, im [Lokie](https://www.instagram.com/lokie.dev)!
 
 
+
+![Static Badge](https://img.shields.io/badge/dart)
+
 - 👋 Hi, I’m @LokieSaNs
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
