@@ -2,7 +2,7 @@
 
 
 
-![Static Badge](https://badgen.net/badge/Dart/active/white?icon=dart)
+![Static Badge](https://badgen.net/badge/white?icon=dart)
 
 - 👋 Hi, I’m @LokieSaNs
 - 👀 I’m interested in ...
