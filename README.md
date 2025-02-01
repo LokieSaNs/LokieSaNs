@@ -1,6 +1,6 @@
 # Hi 👋, im [Lokie](https://www.instagram.com/lokie.dev)!
 
-I'm an intermediate mobile & web developer who are lives in Indonesia.
+I'm an intermediate mobile & web developer who lives in Indonesia.
 
 ## Language used
 + Dart
